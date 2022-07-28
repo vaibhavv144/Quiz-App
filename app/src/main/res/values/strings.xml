@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+    <string name="pre_btn_text">Previous</string>
+    <string name="next_btn_txt">Next</string>
+    <string name="place_holder">TODO</string>
+    <string name="prev">Prev</string>
+    <string name="question_pm">Mahatma Gandhi was the first Prime Minister of India.</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="question_sports">Cricket is the National sport of India.</string>
+    <string name="question_crop">India is the world’s largest producer of bananas.</string>
+    <string name="question_gk">India drives on the right side of the road.</string>
+    <string name="question_prize"> No Indian has ever won the Nobel Peace Prize.</string>
+    <string name="question_agri">Roughly Fifty Percent of Indians work in agriculture.</string>
+    <string name="question_border">India shares its longest border with Bangladesh.</string>
+    <string name="question_state"> Andaman and Nicobar islands are closer to Thailand than to mainland India</string>
+</resources>
